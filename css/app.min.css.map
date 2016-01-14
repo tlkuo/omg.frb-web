@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAAA,IAAI,AAAC,CACD,gBAAgB,CAAE,SAAU,CAC/B","file":"app.min.css","sourcesContent":["body {\n    background-color: lightblue;\n}"],"sourceRoot":"/source/"}
