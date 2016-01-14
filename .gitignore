@@ -1,0 +1,11 @@
+# npm install
+node_modules/
+
+# bower install
+bower_components/
+
+# gulp build
+dist/
+
+# gulp deploy
+.publish/
